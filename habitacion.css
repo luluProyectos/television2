@@ -1,0 +1,31 @@
+a{
+    float: right;
+    padding: 20px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+#objetos_detectados{
+font-size: 18px;
+}
+
+/**5. Agregar estilo al canvas*/
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 25px;
+}
